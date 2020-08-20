@@ -1,0 +1,2 @@
+# House Price Prediction
+Goal of this case study is to Model the price of houses with the available independent variables. This model can then be used to understand how exactly the prices vary with the variables. The company can accordingly manipulate the strategy of the firm and concentrate on areas that will yield high returns. Further, the model will be a good way to understand the pricing dynamics of a new market.
